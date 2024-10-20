@@ -6,6 +6,13 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    border-bottom: solid magenta 5px;
+    border-top:solid magenta 5px;
+    border-left: solid #FD1D1D 5px;
+    border-right: solid #FD1D1D 5px;
+
+    width: 450px;
+    margin: 50px auto;
 }
 .button{
     margin: 0 auto;
